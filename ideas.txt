@@ -13,3 +13,13 @@ Steps:
 	- Make the Base of the App
 	- MAke sure its able to store Data, EX:. Money, transaction, profit and loss
 	- Make sure it can calculate operations and maybe give a prediction if its good or bad to invest. 
+
+#Base App: 
+	- Menu
+	- Simples Actions: Deposit, Extract, Calculate...
+
+#Store Data: 
+	- TXT
+	- Excel
+	- DataBase: SQL...
+	
