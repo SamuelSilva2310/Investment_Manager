@@ -1,0 +1,15 @@
+
+Investing APP: 
+
+
+Goals: 
+	
+	- Store Amount of Money in Bank
+	- Calculate Profit and loss
+	- Given a percentage calculate how much the money will go up or down
+
+Steps:
+
+	- Make the Base of the App
+	- MAke sure its able to store Data, EX:. Money, transaction, profit and loss
+	- Make sure it can calculate operations and maybe give a prediction if its good or bad to invest. 
