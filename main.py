@@ -2,7 +2,8 @@
 # Date: 8/1/2021
 # App: Investent manager
 # Version: 0.0
-
+ 
+ 
 MENU = """
 	 ----------------
 	       MENU
@@ -19,21 +20,22 @@ def get_Menu(menu = MENU):
 
 	print(menu)
 
-	return int(input())
+	return action_Menu(int(input()))
 
 
 def action_Menu(action : int):
 
 	if action == 1:
-		#return action_method
+		pass
 	elif action == 2:
-		#return action_method
+		pass
 	elif action == 3:
-		#return action_method
+		print(percentage_increase(50, 1.5))
 	else: 
-		#return action_method
+		pass
 
 
 
 
+get_Menu()
 
